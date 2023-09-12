@@ -1,5 +1,7 @@
 # FFJSP_instances
 
+The original paper can be referred as: Chen, X. L., Li, J. Q., & Du, Y. (2023). A hybrid evolutionary immune algorithm for fuzzy flexible job shop scheduling problem with variable processing speeds. Expert Systems with Applications, 120891.https://doi.org/10.1016/j.eswa.2023.120891
+
 Detailed data sorce can be found in the paper.
 
 The data format is as follows:
